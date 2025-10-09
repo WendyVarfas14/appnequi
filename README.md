@@ -1,2 +1,2 @@
 # appnequi
-soy karen
+debes hacer el uml
